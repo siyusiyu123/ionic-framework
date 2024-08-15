@@ -1,5 +1,5 @@
 {
-  "name": "@ionic/vue",
+  "name": "@ionic/vue-sy",
   "version": "8.2.9",
   "description": "Vue specific wrapper for @ionic/core",
   "scripts": {
@@ -76,5 +76,6 @@
   "web-types": "dist/web-types.json",
   "sideEffects": [
     "css/*.css"
-  ]
+  ],
+  "gitHead": "13be85a0c09a72b5704f8a8d4b3e09ba45cb2991"
 }

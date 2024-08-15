@@ -1,5 +1,5 @@
 {
-  "name": "@ionic/vue-router",
+  "name": "@ionic/vue-router-sy",
   "version": "8.2.9",
   "description": "Vue Router integration for @ionic/vue",
   "scripts": {
@@ -77,5 +77,6 @@
       "json",
       "jsx"
     ]
-  }
+  },
+  "gitHead": "13be85a0c09a72b5704f8a8d4b3e09ba45cb2991"
 }

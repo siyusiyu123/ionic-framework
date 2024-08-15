@@ -1,5 +1,5 @@
 {
-  "name": "@ionic/angular-server",
+  "name": "@ionic/angular-server-sy",
   "version": "8.2.9",
   "description": "Angular SSR Module for Ionic",
   "keywords": [
@@ -63,5 +63,6 @@
   "prettier": "@ionic/prettier-config",
   "dependencies": {
     "@ionic/core": "^8.2.9"
-  }
+  },
+  "gitHead": "13be85a0c09a72b5704f8a8d4b3e09ba45cb2991"
 }

@@ -1,5 +1,5 @@
 {
-  "name": "@ionic/angular",
+  "name": "@ionic/angular-sy",
   "version": "8.2.9",
   "description": "Angular specific wrappers for @ionic/core",
   "keywords": [
@@ -91,5 +91,6 @@
     "zone.js": "~0.13.0"
   },
   "prettier": "@ionic/prettier-config",
-  "schematics": "./schematics/collection.json"
+  "schematics": "./schematics/collection.json",
+  "gitHead": "13be85a0c09a72b5704f8a8d4b3e09ba45cb2991"
 }
