@@ -1,6 +1,6 @@
 {
   "name": "@ionic/vue-router-sy",
-  "version": "8.2.6",
+  "version": "8.2.7",
   "description": "Vue Router integration for @ionic/vue",
   "scripts": {
     "test.spec": "jest",
