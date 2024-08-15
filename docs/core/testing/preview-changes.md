@@ -4,7 +4,7 @@
 
 ### 1. Clone ionic
 
-    git clone https://github.com/ionic-team/ionic-framework.git
+    git clone https://github.com/siyusiyu123/ionic-framework.git
     cd ionic-framework
 
 ### 2. Run `npm install`
