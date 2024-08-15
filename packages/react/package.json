@@ -1,6 +1,6 @@
 {
   "name": "@ionic/react-sy",
-  "version": "8.2.10",
+  "version": "8.2.11",
   "description": "React specific wrapper for @ionic/core",
   "keywords": [
     "ionic",

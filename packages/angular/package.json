@@ -1,6 +1,6 @@
 {
   "name": "@ionic/angular-sy",
-  "version": "8.2.10",
+  "version": "8.2.11",
   "description": "Angular specific wrappers for @ionic/core",
   "keywords": [
     "ionic",
