@@ -17,7 +17,7 @@
     "url": "git+https://github.com/siyusiyu123/ionic-framework.git"
   },
   "bugs": {
-    "url": "https://github.com/ionic-team/ionic-framework/issues"
+    "url": "https://github.com/siyusiyu123/ionic-framework/issues"
   },
   "publishConfig": {
     "directory": "dist"
@@ -64,5 +64,5 @@
   "dependencies": {
     "@ionic/core": "^8.2.10"
   },
-  "gitHead": "ae3f5e4c52ad2ab9415170f676af1adf3d2e3a9f"
+  "gitHead": "f096e85f853aba6c4ded710cdbc3d8460e0460aa"
 }
