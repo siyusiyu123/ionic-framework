@@ -1,6 +1,6 @@
 {
   "name": "@ionic/vue-sy",
-  "version": "8.2.14",
+  "version": "8.2.15",
   "description": "Vue specific wrapper for @ionic/core",
   "scripts": {
     "eslint": "eslint src",
