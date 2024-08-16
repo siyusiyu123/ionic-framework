@@ -1,6 +1,6 @@
 {
   "name": "@ionic/docs-sy",
-  "version": "8.2.12",
+  "version": "8.2.13",
   "description": "Pre-packaged API documentation for the Ionic docs.",
   "main": "core.json",
   "types": "core.d.ts",
