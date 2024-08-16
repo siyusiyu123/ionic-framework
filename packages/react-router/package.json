@@ -67,5 +67,5 @@
     "typescript": "^4.0.5"
   },
   "prettier": "@ionic/prettier-config",
-  "gitHead": "a7366b95746f2d58bcaae10a83cb5e8dd63c5964"
+  "gitHead": "6e8a973ad81393807e41c6fe2d7732c45710ec22"
 }
